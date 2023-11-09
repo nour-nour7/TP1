@@ -1,1 +1,5 @@
 EX1, QS 4: aucuns fichiers crées/ajoutés au repositoire git i.e. aucune modifications 
+QS 5: le fichier ajouté et prêt à ^étre comité
+QS8: message du commit et l'output "diff" qui indique ce qu"on a fait dans ce repositoire jusqu"a  maintenant 
+
+QS9: montre les differentes versions du fichier git.Txt et donne des informations sur les changements qu'on a faits.
